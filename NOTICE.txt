@@ -1,5 +1,5 @@
 Project Embedded Quality Gate
-Copyright 2026 David Paul Russell
+Copyright 2026 (C) RUSSELL PHILIP SMITHSON
 
 This product is licensed under the Apache License, Version 2.0.
 
