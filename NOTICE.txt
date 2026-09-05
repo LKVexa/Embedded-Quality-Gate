@@ -1,0 +1,13 @@
+Project Embedded Quality Gate
+Copyright 2026 David Paul Russell
+
+This product is licensed under the Apache License, Version 2.0.
+
+This distribution also incorporates, adapts, or references third-party
+materials that remain subject to their respective copyright notices and
+license terms. Those attributions and license terms are documented in
+THIRD-PARTY-NOTICES.md in the Project Embedded Quality Gate distribution.
+
+Nothing in this NOTICE modifies, supersedes, or restricts the terms of the
+Apache License, Version 2.0, or the applicable licenses of third-party
+materials.
